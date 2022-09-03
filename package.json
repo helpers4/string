@@ -5,7 +5,7 @@
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/helpers4/url",
+  "repository": "https://github.com/helpers4/string",
   "license": "AGPL-3.0",
   "keywords": [
     "helper",
