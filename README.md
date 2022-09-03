@@ -9,4 +9,4 @@ A set of helpers for working with strings.
 
 ## Documentation
 
-TODO
+[https://helpers4.github.io/string](https://helpers4.github.io/string)
